@@ -4,6 +4,9 @@
 public class test {
 
     public static void main(String[] args) {
-        System.out.println("Hello world");
+       Shape s1 = new Shape(); 
+       s1.Insert(4, 5);
+       
     }
-}
+} 
+
